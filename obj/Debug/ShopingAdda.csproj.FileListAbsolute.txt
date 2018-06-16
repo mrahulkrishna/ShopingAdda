@@ -1,0 +1,4 @@
+E:\Project Internhip\ShopingAdda\ShopingAdda\bin\ShopingAdda.dll
+E:\Project Internhip\ShopingAdda\ShopingAdda\bin\ShopingAdda.pdb
+E:\Project Internhip\ShopingAdda\ShopingAdda\obj\Debug\ShopingAdda.dll
+E:\Project Internhip\ShopingAdda\ShopingAdda\obj\Debug\ShopingAdda.pdb
